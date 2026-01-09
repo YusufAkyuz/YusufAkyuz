@@ -61,21 +61,6 @@ Machine learning models for classifying stock market tickets into sectors using 
 
 ---
 
-## 📊 GitHub Statistics
-
-> If statistics do not appear, ensure your GitHub username matches **exactly** and that your profile is public.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufAkyuz&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAkyuz&layout=compact&hide_border=true&langs_count=6" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YusufAkyuz&hide_border=true" height="170" />
-</div>
-
----
-
 ## 📫 Contact
 
 * **Email:** [yusufakyus47@gmail.com](mailto:yusufakyus47@gmail.com)
