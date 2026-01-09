@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 
-  <h1>Hello, I'm Yusuf! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
+  <h1>Hi, I'm Yusuf!></h1>
   
   <h3>DevOps & MLOps Engineer | Software Engineer</h3>
   
@@ -8,14 +7,14 @@
     <i>"Processing data, automating workflows, and designing scalable systems."</i>
   </p>
 
-  <a href="https://linkedin.com/in/yusuf-akyuz">
+  <a href="https://www.linkedin.com/in/yusuf-aky%C3%BCz-69162b237/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yusufakyus47@gmail.com">
+  <a href="yusufakyus47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/YusufAkyuz">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/YusufAkyuz)" />
   </a>
 
 </div>
@@ -81,7 +80,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufAkyuz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufAkyuz&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAkyuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
 </div>
 
